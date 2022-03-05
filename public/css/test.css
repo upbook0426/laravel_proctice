@@ -1,0 +1,6 @@
+.marker {
+    color: #191970;
+    text-decoration-line: underline;
+    text-underline-offset: 10px; /*位置*/
+    text-decoration-thickness: 30px; /*太さ*/
+  }
